@@ -1,5 +1,5 @@
 {
-  "name": "devextreme-scheduler",
+  "name": "devextreme-scheduler-problem",
   "version": "1.0.0",
   "description": "Uncaught TypeError: this._contentReadyAction is not a function",
   "keywords": [
