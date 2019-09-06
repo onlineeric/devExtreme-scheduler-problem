@@ -5,7 +5,7 @@ import "devextreme/dist/css/dx.common.css";
 import "devextreme/dist/css/dx.light.css";
 import "./styles.css";
 import { data } from "./data";
-import { appointmentFormOpeningTemplate } from "../apFormOpeningTemplate";
+import { appointmentFormOpeningTemplate } from "./apFormOpeningTemplate";
 
 function App() {
   return (
