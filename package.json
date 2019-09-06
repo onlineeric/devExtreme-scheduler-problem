@@ -1,8 +1,13 @@
 {
   "name": "devextreme-scheduler",
   "version": "1.0.0",
-  "description": "",
-  "keywords": [],
+  "description": "Uncaught TypeError: this._contentReadyAction is not a function",
+  "keywords": [
+    "appointmentformopeningtemplate",
+    "devextreme",
+    "scheduler",
+    "react"
+  ],
   "main": "src/index.js",
   "dependencies": {
     "devextreme": "19.1.5",

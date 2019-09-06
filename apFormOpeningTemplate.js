@@ -1,10 +1,6 @@
 function getActivityFormItems(form, popup) {
   return [
     {
-      label: {
-        text: "show / hide",
-        location: "top"
-      },
       name: "show1",
       dataField: "show1",
       editorType: "dxCheckBox",
@@ -17,10 +13,6 @@ function getActivityFormItems(form, popup) {
       }
     },
     {
-      label: {
-        text: "text",
-        location: "top"
-      },
       name: "text1",
       dataField: "text",
       editorType: "dxTextArea",
@@ -29,7 +21,7 @@ function getActivityFormItems(form, popup) {
       editorOptions: {
         stylingMode: "outlined",
         width: "100%",
-        height: 60
+        height: 200
       }
     }
   ];
